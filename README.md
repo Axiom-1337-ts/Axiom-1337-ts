@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://cdn.discordapp.com/attachments/1447716512038387755/1502131697406185655/4d49eb7ee6fefab3e8b58e97edf00f57.jpg?ex=69fe98a8&is=69fd4728&hm=2a8aa533aa93cadec5d463b5328dfe2549f988932108ccc5907ac203c7209670&](https://public-blob.squarecloud.dev/8c0581e39496096d54dcb900d53d6ce2fee14248/githubbanner.jpg)" alt="Terminal banner" width="100%" />
+<img src="https://public-blob.squarecloud.dev/8c0581e39496096d54dcb900d53d6ce2fee14248/githubbanner.jpg" alt="Terminal banner" width="100%" />
 
 # Axiom
 
@@ -65,13 +65,11 @@ Infrastructure for scalable multi-client Discord bot hosting and deployment.
 
 ---
 
-## GitHub Statistics
+## GitHub Metrics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Axiom-1337-ts&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axiom-1337-ts&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="/github-metrics.svg" alt="Metrics" width="100%" />
 
 </div>
 
