@@ -3,8 +3,7 @@
 
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1447716512038387755/1502131697406185655/4d49eb7ee6fefab3e8b58e97edf00f57.jpg?ex=69fe98a8&is=69fd4728&hm=2a8aa533aa93cadec5d463b5328dfe2549f988932108ccc5907ac203c7209670&
-" alt="Terminal banner" width="100%" />
+<img src="https://cdn.discordapp.com/attachments/1447716512038387755/1502131697406185655/4d49eb7ee6fefab3e8b58e97edf00f57.jpg?ex=69fe98a8&is=69fd4728&hm=2a8aa533aa93cadec5d463b5328dfe2549f988932108ccc5907ac203c7209670&" alt="Terminal banner" width="100%" />
 
 Axiom
 
